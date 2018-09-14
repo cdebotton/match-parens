@@ -1,0 +1,17 @@
+{
+  "name": "native",
+  "esy": {
+    "build": "dune build -p #{self.name}",
+    "release": {
+      "releasedBinaries": [
+        "native"
+      ]
+    }
+  },
+  "devDependencies": {
+    "@opam/merlin": "*",
+    "@opam/dune": "*",
+    "@opam/lwt": "*",
+    "ocaml": "~4.6.0"
+  }
+}

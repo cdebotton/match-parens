@@ -1,0 +1,24 @@
+lib: [
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/META" {"META"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/opam" {"opam"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib__Error.cmi" {"lib__Error.cmi"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib__Error.cmx" {"lib__Error.cmx"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib__Error.cmt" {"lib__Error.cmt"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/Error.ml" {"Error.ml"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.cmi" {"lib.cmi"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.cmx" {"lib.cmx"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.cmt" {"lib.cmt"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.ml-gen" {"lib.ml-gen"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib__Util.cmi" {"lib__Util.cmi"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib__Util.cmx" {"lib__Util.cmx"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib__Util.cmt" {"lib__Util.cmt"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/Util.ml" {"Util.ml"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.cma" {"lib.cma"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.cmxa" {"lib.cmxa"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.a" {"lib.a"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/lib.cmxs" {"lib.cmxs"}
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/lib/native/native.dune" {"native.dune"}
+]
+bin: [
+  "/Users/cdebotton/Projects/native/node_modules/.cache/_esy/store/b/native-0.0.0-f16bdf46/install/default/bin/native" {"native"}
+]

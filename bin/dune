@@ -1,0 +1,4 @@
+(executable
+  (name native)
+  (public_name native)
+  (libraries lib))
